@@ -1,0 +1,12 @@
+<table>
+<tr>
+    <td>API</td>
+<td>简介</td>
+<td>请求方式</td>
+</tr>
+<tr>
+<td>https://api.qrserver.com/v1/create-qr-code/?size=150%C3%97150&data=</td>
+<td>data后面填写内容,得到二维码</td>
+<td>get</td>
+</tr>
+</table>
